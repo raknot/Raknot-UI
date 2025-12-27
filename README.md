@@ -1,4 +1,4 @@
-![Raknot UI Banner](https://raknot.dev/example/github/raknot-UI/index.php)
+![Raknot UI Banner](https://raknot.dev/example/github/raknot-UI/banner/index.php)
 
 ## Features
 
